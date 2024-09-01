@@ -8,6 +8,7 @@
 ### 1. Natural Cubic Spline [[보기]](https://youtu.be/nJwooRCnCSk)
 ### 2. 2D B-spline [[보기]](https://youtu.be/pX4Am11O-Eo)
 ### 3. Mass-spring Model [[보기]](https://youtu.be/ygh9u9M_QoQ)
+<br/>
 
 ## 📄 Description
 > 위 과제들은 온전한 능력보다는 구글링과 수업 내용을 조합하여 구현했습니다.
